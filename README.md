@@ -1,1 +1,2 @@
 # Simple-Implementation-of-a-Medibox
+Contains the files for the simple implementation of a medibox done under the EN2853 embedded systems desgin module. This was implemented on Wokwi simulation platform and was coded using Arduino (C++). The .json files for the simulation are also included. A dashboard was created using NodeRed to display the data gathered from the medibox and to give user inputs to the medibox.
